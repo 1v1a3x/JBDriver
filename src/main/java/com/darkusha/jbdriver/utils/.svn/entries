@@ -1,0 +1,42 @@
+10
+
+dir
+0
+file:///home/darkusha/masstestrepo/masstest/src/main/java/com/darkusha/jbdriver/utils
+file:///home/darkusha/masstestrepo
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+77c13444-6a61-49ea-8785-5965d395d0ef
+
+PropertiesUtil.java
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
