@@ -1,9 +1,0 @@
-Meta:
-@skip
-
-The mass simple test
-
-Narrative:
-In order to test a Mass UI availability
-As a Mass User
-I should be able to obtain the Mass UI login page
